@@ -2,30 +2,30 @@
   "cookies": [
     {
       "name": "_ga",
-      "value": "GA1.1.793839967.1758098448",
+      "value": "GA1.1.267037256.1758267797",
       "domain": ".brainingcamp.com",
       "path": "/",
-      "expires": 1792658448.296405,
+      "expires": 1792827796.578265,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "vuex",
-      "value": "{%22token%22:%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoidGVhY2hlciIsInVzZXJuYW1lIjoidHVzaGFyQHRhYXphYS5jb20iLCJpZCI6NDQwODgsInNjaG9vbElkIjoyNDksIm5lZWRzVmVyaWZpY2F0aW9uIjpmYWxzZSwiaXNBZG1pblVzZXIiOmZhbHNlLCJpYXQiOjE3NTgwOTg0NTEsImV4cCI6MTc2MDY5MDQ1MX0.4jWhUj962b_VoKPSa9eYIlEcGQcT3v9MR2ycoS41B3s%22%2C%22user%22:{%22type%22:%22teacher%22%2C%22username%22:%22tushar@taazaa.com%22%2C%22id%22:44088%2C%22schoolId%22:249%2C%22needsVerification%22:false%2C%22isAdminUser%22:false}%2C%22vendor%22:null%2C%22loggedIn%22:true%2C%22loginRedirect%22:null%2C%22onboardStatus%22:false%2C%22hasLessonAccess%22:false}",
+      "value": "{%22token%22:%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoidGVhY2hlciIsInVzZXJuYW1lIjoidHVzaGFyQHRhYXphYS5jb20iLCJpZCI6NDQwODgsInNjaG9vbElkIjoyNDksIm5lZWRzVmVyaWZpY2F0aW9uIjpmYWxzZSwiaXNBZG1pblVzZXIiOmZhbHNlLCJpYXQiOjE3NTgyNjc3OTksImV4cCI6MTc2MDg1OTc5OX0.0PqM_WRuKRS79GsPR3a56iVZ7A2vgrg8_k738tMtWHE%22%2C%22user%22:{%22type%22:%22teacher%22%2C%22username%22:%22tushar@taazaa.com%22%2C%22id%22:44088%2C%22schoolId%22:249%2C%22needsVerification%22:false%2C%22isAdminUser%22:false}%2C%22vendor%22:null%2C%22loggedIn%22:true%2C%22loginRedirect%22:null%2C%22onboardStatus%22:false%2C%22hasLessonAccess%22:false}",
       "domain": "app.brainingcamp.com",
       "path": "/",
-      "expires": 1760690451,
+      "expires": 1760859799,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "_ga_9QCPFC271P",
-      "value": "GS2.1.s1758098448$o1$g1$t1758098451$j57$l0$h0",
+      "value": "GS2.1.s1758267796$o1$g1$t1758267799$j57$l0$h0",
       "domain": ".brainingcamp.com",
       "path": "/",
-      "expires": 1792658451.513396,
+      "expires": 1792827799.890003,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -37,7 +37,7 @@
       "localStorage": [
         {
           "name": "ce_bot_detector",
-          "value": "{\"visits\":0,\"clicks\":1,\"firstVisitTime\":1758098448801,\"detected\":false}"
+          "value": "{\"visits\":0,\"clicks\":1,\"firstVisitTime\":1758267797031,\"detected\":false}"
         }
       ]
     }

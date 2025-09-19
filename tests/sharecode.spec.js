@@ -60,6 +60,8 @@ test('validate share functinality from any mnipulative Page', async({ page }) =>
         await shareCode.navigateToManipulativePage();
         await shareCode.shareButton.click();
         await expect(shareCode.sharePopup).toBeVisible();
-        
+        await shareCode.shareCodeBox.click();
+        await expect (shareCode.shareText).toHaveText("You must be logged in to use a Share Code or link.");
+    
 
 })
